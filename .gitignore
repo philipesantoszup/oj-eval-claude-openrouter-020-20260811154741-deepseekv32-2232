@@ -1,0 +1,9 @@
+CMakeFiles/
+CMakeCache.txt
+*.o
+test
+test2
+debug_test
+debug.log
+output.log
+code
