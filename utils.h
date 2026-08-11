@@ -29,7 +29,7 @@
         printf("\nTotal: %d Ok\n", tCnt); \
     } while (0)
 
-#define finish()                  \
+#define finish() \
     do {                          \
         printf("\nTest Ends.\n"); \
     } while (0)
